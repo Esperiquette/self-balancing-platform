@@ -20,7 +20,7 @@ Course: ME 4990L Mechatronics Laboratory, Cal Poly Pomona, Fall 2024. Team of 3.
 
 ## Files
 
-- `self_balancing_platform.ino`: the Arduino sketch, as printed in the report appendix and reformatted only.
+- `self_balancing_platform.ino`: the Arduino sketch, as printed in the report appendix and reformatted.
 - The full report with CAD, wiring and results is on the [portfolio](https://esperiquette.github.io/portfolio/).
 
 ## Gains used
