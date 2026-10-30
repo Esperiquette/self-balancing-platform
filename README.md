@@ -43,5 +43,3 @@ Kalman filter, a third degree of freedom, stepper motors for smoother actuation,
 ## Credits
 
 Luke Esperiquette, Sairam Sreekant, James Willis
-
-<!-- Add one line on your own part, e.g. "My part: ...". Delete this comment when done. -->
