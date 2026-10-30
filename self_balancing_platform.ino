@@ -1,7 +1,7 @@
 // Self-balancing platform (thrust vector control model)
 // Cal Poly Pomona, ME 4990L Mechatronics Laboratory, Fall 2024
 // Hardware: Arduino Uno, MPU6050 IMU (I2C), two hobby servos on pins 9 and 10.
-// Code as printed in the final project report appendix, reformatted only (no logic changes).
+// Code as printed in the final project report appendix, reformatted (no logic changes).
 // Known limitations are listed in README.md.
 
 #include <Servo.h>
@@ -19,7 +19,7 @@ int c = 0;
 // Servo objects
 Servo servoX, servoY;
 
-// Servo pins (replace with your actual pin numbers)
+// Servo pins (replace with the pins you select)
 const int servoXPin = 9;
 const int servoYPin = 10;
 
