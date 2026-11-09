@@ -37,7 +37,3 @@ Kp = 0.5, Ki = 0.01, Kd = 0.1, tuned by repeated tests.
 ## Next steps
 
 Feed the fused estimate back into the angle integration, then try a Kalman filter. Further work: a third degree of freedom, stepper motors for smoother actuation, and a microcontroller with more I/O.
-
-## Credits
-
-Course project completed by a team of three.
