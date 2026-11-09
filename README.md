@@ -2,7 +2,7 @@
 
 A two-axis platform that holds itself level against disturbances. It models how thrust vector control keeps a rocket pointed true.
 
-Course: ME 4990L Mechatronics Laboratory, Cal Poly Pomona, Fall 2024. Team of 3.
+Course: ME 4990L Mechatronics Laboratory, Cal Poly Pomona, Fall 2024.
 
 ## What it does
 
